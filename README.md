@@ -1,6 +1,6 @@
 # Hi there, I'm CoddeMaster 👋
 
-![Profile Banner](https://avatars.githubusercontent.com/u/163339302?v=4)
+          ![Profile Banner](https://avatars.githubusercontent.com/u/163339302?v=4)
 
 I'm a passionate **Front-End Developer** with over [X years] of experience building engaging and responsive web applications. I thrive on solving complex problems and bringing creative designs to life with clean, efficient code.
 
