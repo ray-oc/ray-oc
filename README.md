@@ -22,17 +22,9 @@ I'm a passionate **Front-End Developer** with over [X years] of experience build
 
 ## 🚀 Projects & Contributions
 
-I'm always excited to work on challenging projects that push the envelope in web development. Here are some highlights:
-
-- **[Project One](https://github.com/yourusername/project-one):** A responsive web application built with React that integrates modern design principles with real-time data visualization.
-- **[Project Two](https://github.com/yourusername/project-two):** An interactive SPA leveraging Redux for state management and styled with Tailwind CSS for a clean, modern look.
-- **[Open Source Contributions](https://github.com/yourusername?tab=overview&from=2025-01-01):** Actively contributing to various open source projects. Feel free to check out my commits and pull requests.
-
----
+I'm always excited to work on challenging projects that push the envelope in web development.
 
 ## 📈 GitHub Stats
-
-[![GitHub Streak](https://git-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
