@@ -1,19 +1,18 @@
-<h2 align="left">Hi 👋! My name is ReactMaestro and I'm a Junior Developer from [Your Location]</h2>
+# Hello! I'm ReactMaestro 👋
+
+Welcome to my GitHub profile. I am a **Junior Developer** passionate about building high-quality web applications and exploring the world of **React**, **JavaScript**, and **Full-Stack Development**. I am constantly learning new technologies and improving my coding skills to create better solutions.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReactMaestro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReactMaestro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+### 🌱 Currently Learning:
+
+- **Backend Development** with Node.js, Express.js, and MongoDB
+- **Mobile App Development** using React Native
+- Enhancing my **JavaScript** and **TypeScript** knowledge
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
----
-
-### Technologies & Tools:
+### 🛠️ Technologies & Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -28,39 +27,36 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
 </div>
 
 ---
 
-### Find me around the web 🌎:
+### 📈 GitHub Stats:
 
-<div align="left">
-  <a href="https://youtube.com/[YourChannel]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://instagram.com/[YourProfile]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://twitch.tv/[YourProfile]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
-  </a>
-  <a href="https://discord.com/users/[YourID]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:[YourEmail]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://linkedin.com/in/[YourLinkedIn]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReactMaestro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReactMaestro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ---
 
-<br clear="both">
+### 🔧 Notable Projects:
 
-<img src="https://raw.githubusercontent.com/ReactMaestro/ReactMaestro/output/snake.svg" alt="Snake animation" />
+- **[Project 1 Title](#)**: A brief description of the project. What problem does it solve? Which technologies were used?
+- **[Project 2 Title](#)**: Another brief description. Highlight its key features and what you learned while building it.
+- **[Project 3 Title](#)**: Add more project highlights here to show your growth and skills.
 
 ---
 
-### A Junior Developer exploring the world of React, JavaScript, and Full-Stack Development! 🚀
+### 👨‍💻 About Me:
+
+I am always curious and passionate about coding. I enjoy collaborating on open-source projects and continuously improving my skills in front-end and full-stack development. When I am not coding, you will probably find me exploring new tech trends or working on personal projects.
+
+Feel free to check out my repositories and explore some of the projects I am working on!
+
+---
+
+### 📫 How to Reach Me:
+
+If you'd like to collaborate or have any questions about my work, feel free to reach out via my GitHub repositories.
