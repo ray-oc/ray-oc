@@ -55,7 +55,7 @@ Welcome to my GitHub profile. I am a **Junior Developer** passionate about build
 
 ### 👨‍💻 About Me:
 
-I am always curious and passionate about coding. I enjoy collaborating on open-source projects and continuously improving my skills in front-end and full-stack development. When I am not coding, you will probably find me exploring new tech trends or working on personal projects.
+I am always curious and passionate about coding. I enjoy collaborating on open-source projects and continuously improving my skills in front-end. When I am not coding, you will probably find me exploring new tech trends or working on personal projects.
 
 Feel free to check out my repositories and explore some of the projects I am working on!
 
