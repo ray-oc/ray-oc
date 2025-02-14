@@ -1,23 +1,23 @@
 # Hello! I'm ReactMaestro 👋
 
 Welcome to my GitHub profile. I am a **Junior Developer** passionate about building high-quality web applications and exploring the world of **React**, **JavaScript**, and **Full-Stack Development**. I am constantly learning new technologies and improving my coding skills to create better solutions.
-
 ---
-
 ### 🌱 Currently Learning:
 
-- **Backend Development** with Node.js, Express.js, and MongoDB
-- **Mobile App Development** using React Native
-- Enhancing my **JavaScript** and **TypeScript** knowledge
-
+- **Mobile App Development** using React Native (not diving in yet)  
+  <img src="https://img.shields.io/static/v1?message=React+Native&logo=react&label=&color=61dafb&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="React Native badge"/>
+  
+- Enhancing my **JavaScript** and **React** knowledge  
+  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="JavaScript badge"/>
+  <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61dafb&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="React badge"/>
+  
 ---
+
 
 ### 🛠️ Technologies & Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
@@ -25,9 +25,13 @@ Welcome to my GitHub profile. I am a **Junior Developer** passionate about build
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
 </div>
 
 ---
