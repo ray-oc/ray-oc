@@ -1,4 +1,4 @@
-# Hello! I'm ReactMaestro 👋
+# Hello! I'm OctoX Coder 👋
 
 Welcome to my GitHub profile. I am a **Junior Developer** passionate about building high-quality web applications and exploring the world of **React**, **JavaScript**, and **Full-Stack Development**. I am constantly learning new technologies and improving my coding skills to create better solutions.
 
